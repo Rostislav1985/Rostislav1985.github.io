@@ -3,7 +3,8 @@
     "mappings": "ACAA,AAAA,GAAG,CAAC;EACA,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,OAAO;CAAG",
     "sources": [
         "../sass/style.sass",
-        "../sass/_general.sass"
+        "../sass/_general.sass",
+        "../sass/_variables.sass"
     ],
     "names": [],
     "file": "style.css"
