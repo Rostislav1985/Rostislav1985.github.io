@@ -1,11 +1,1 @@
-{
-    "version": 3,
-    "mappings": "ACAA,AAAA,GAAG,CAAC;EACA,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,OAAO;CAAG",
-    "sources": [
-        "../sass/style.sass",
-        "../sass/_general.sass",
-        "../sass/_variables.sass"
-    ],
-    "names": [],
-    "file": "style.css"
-}
+{"version":3,"sources":["../sass/_general.sass","../sass/_variables.sass","../sass/style.sass"],"names":[],"mappings":"AAAA;EACI,YAAA;EACA,mBCFY;ACGhB","file":"style.css"}
