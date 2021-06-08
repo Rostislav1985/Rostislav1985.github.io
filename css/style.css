@@ -29,24 +29,22 @@ nav {
   align-items: center;
 }
 .subheader_left {
+  margin-left: 20px;
   display: flex;
   align-items: center;
-}
-.subheader_left_skype {
-  margin-left: 50px;
 }
 .subheader_left_text {
   font-size: 30px;
   color: #ffffff;
+  margin-right: 50px;
 }
 .subheader_right {
+  margin-right: 20px;
   display: flex;
   align-items: center;
-}
-.subheader_right_whatsapp {
-  margin-left: 50px;
 }
 .subheader_right_text {
   font-size: 30px;
   color: #ffffff;
+  margin-right: 50px;
 }/*# sourceMappingURL=style.css.map */
