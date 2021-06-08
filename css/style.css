@@ -5,7 +5,7 @@
 nav {
   display: flex;
   height: 50px;
-  background: #778000;
+  background: #000000;
 }
 
 .nav_menu {
@@ -18,5 +18,35 @@ nav {
 }
 .nav_menu_item {
   list-style: none;
+  color: #ffffff;
+}
+
+.subheader {
+  height: 135px;
+  background: #000000;
+  opacity: 0.8;
+  display: flex;
+  align-items: center;
+}
+.subheader_left {
+  display: flex;
+  align-items: center;
+}
+.subheader_left_skype {
+  margin-left: 50px;
+}
+.subheader_left_text {
+  font-size: 30px;
+  color: #ffffff;
+}
+.subheader_right {
+  display: flex;
+  align-items: center;
+}
+.subheader_right_whatsapp {
+  margin-left: 50px;
+}
+.subheader_right_text {
+  font-size: 30px;
   color: #ffffff;
 }/*# sourceMappingURL=style.css.map */
