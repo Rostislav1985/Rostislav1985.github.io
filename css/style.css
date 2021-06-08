@@ -47,4 +47,17 @@ nav {
   font-size: 30px;
   color: #ffffff;
   margin-right: 50px;
+}
+
+.header_image {
+  height: 635px;
+}
+
+.about_us {
+  height: 700px;
+  background: #000000;
+}
+
+.portfolio {
+  min-height: 700px;
 }/*# sourceMappingURL=style.css.map */
