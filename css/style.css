@@ -50,7 +50,7 @@ nav {
 }
 
 .header_image {
-  height: 635px;
+  min-height: 635px;
 }
 
 .about_us {
